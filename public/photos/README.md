@@ -1,0 +1,1 @@
+Add permission-cleared organization photos here as .webp files, then replace the relevant `src` value in `src/lib/photos.json` with an absolute path such as `/photos/hero.webp`. Source material about identifiable children should only be used with appropriate consent. External Pexels photos are illustrations, not documented photos of this specific childcare business.

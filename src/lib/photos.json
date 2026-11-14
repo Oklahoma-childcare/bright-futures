@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "src": "https://images.pexels.com/photos/27177346/pexels-photo-27177346.jpeg?auto=compress&cs=tinysrgb&w=1400",
+    "alt": "Illustrative photo of a bright playroom with colorful learning toys",
+    "position": "center center",
+    "sourcePage": "https://www.pexels.com/photo/child-playing-in-colorful-nursery-room-27177346/"
+  },
+  "feature": {
+    "src": "https://images.pexels.com/photos/8535142/pexels-photo-8535142.jpeg?auto=compress&cs=tinysrgb&w=950",
+    "alt": "Illustrative photograph of a preschool classroom decorated with children's crafts",
+    "position": "center center",
+    "sourcePage": "https://www.pexels.com/photo/room-decorated-with-children-drawings-8535142/"
+  },
+  "about": {
+    "src": "https://images.pexels.com/photos/8363040/pexels-photo-8363040.jpeg?auto=compress&cs=tinysrgb&w=1400",
+    "alt": "Illustrative image of children with their educator in a classroom",
+    "position": "center center",
+    "sourcePage": "https://www.pexels.com/photo/preschoolers-inside-a-classroom-8363040/"
+  },
+  "infants": {
+    "src": "https://images.pexels.com/photos/6849272/pexels-photo-6849272.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "alt": "Illustrative nursery room with infant toys and soft furnishings",
+    "position": "center center",
+    "sourcePage": "https://www.pexels.com/photo/a-baby-bed-with-toys-decoration-6849272/"
+  },
+  "toddlers": {
+    "src": "https://images.pexels.com/photos/19735000/pexels-photo-19735000.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "alt": "Illustrative photo of a toddler exploring a colorful playroom",
+    "position": "center center",
+    "sourcePage": "https://www.pexels.com/photo/a-toddler-walking-in-a-playroom-19735000/"
+  },
+  "preschool": {
+    "src": "https://images.pexels.com/photos/8923527/pexels-photo-8923527.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "alt": "Illustrative photograph of an educational play activity in a preschool classroom",
+    "position": "center center",
+    "sourcePage": "https://www.pexels.com/photo/a-girl-in-the-classroom-8923527/"
+  },
+  "schoolAge": {
+    "src": "https://images.pexels.com/photos/8363047/pexels-photo-8363047.jpeg?auto=compress&cs=tinysrgb&w=900",
+    "alt": "Illustrative image of children enjoying educational toys in a classroom",
+    "position": "center center",
+    "sourcePage": "https://www.pexels.com/photo/children-playing-with-their-toys-inside-the-school-8363047/"
+  }
+}
